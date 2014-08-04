@@ -1,0 +1,16 @@
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\bin\Debug\LogicGoesHere.dll
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\bin\Debug\LogicGoesHere.pdb
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\bin\Debug\Machine.Specifications.Clr4.dll
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\bin\Debug\Machine.Specifications.dll
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\bin\Debug\Machine.Specifications.Should.dll
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\obj\Debug\LogicGoesHere.csprojResolveAssemblyReference.cache
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\obj\Debug\LogicGoesHere.dll
+C:\Users\JMIBARRA\Documents\Proyecto_P4\Tarea2\LogicGoesHere\obj\Debug\LogicGoesHere.pdb
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\bin\Debug\LogicGoesHere.dll
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\bin\Debug\LogicGoesHere.pdb
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\bin\Debug\Machine.Specifications.Clr4.dll
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\bin\Debug\Machine.Specifications.dll
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\bin\Debug\Machine.Specifications.Should.dll
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\obj\Debug\LogicGoesHere.csprojResolveAssemblyReference.cache
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\obj\Debug\LogicGoesHere.dll
+C:\Users\JMIBARRA\Documents\Tarea2\LogicGoesHere\obj\Debug\LogicGoesHere.pdb
